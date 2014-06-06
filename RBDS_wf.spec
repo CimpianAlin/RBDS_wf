@@ -15,9 +15,9 @@ License: None
 Group: REDHAWK/Waveforms
 Source: %{name}-%{version}.tar.gz
 # Require the controller whose SPD is referenced
-Requires: Mixer
+Requires: FMDemodulator
 # Require each referenced component
-Requires: Mixer BPSK DifferentialDecoder RBDSDecoder FMDemodulator FilterDecimate FrequencyDivider
+Requires: FMDemodulator FilterDecimate Mixer FrequencyDivider BPSK DifferentialDecoder RBDSDecoder
 BuildArch: noarch
 BuildRoot: %{_tmppath}/%{name}-%{version}
 

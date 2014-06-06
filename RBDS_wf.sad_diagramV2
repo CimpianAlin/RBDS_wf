@@ -1,576 +1,592 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://sca.jpeojtrs.mil/diagram" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:partitioning="http://sca.jpeojtrs.mil/partitioning" xmlns:sad="http://sca.jpeojtrs.mil/sad" xmi:id="_UmptIUvkEeOkfJPuKYRi4w" type="Sad" name="RBDS_wf.sad_diagramV2" measurementUnit="Pixel">
-  <children xmi:type="notation:Shape" xmi:id="_pKwqYEvkEeOkfJPuKYRi4w" type="3001" fontName="Sans">
-    <children xmi:type="notation:DecorationNode" xmi:id="_pKwqYkvkEeOkfJPuKYRi4w" type="5006"/>
-    <children xmi:type="notation:DecorationNode" xmi:id="_pKwqY0vkEeOkfJPuKYRi4w" type="7002">
-      <children xmi:type="notation:Shape" xmi:id="_pKyfkEvkEeOkfJPuKYRi4w" type="3002" fontName="Sans">
-        <children xmi:type="notation:DecorationNode" xmi:id="_pKyfkkvkEeOkfJPuKYRi4w" type="5004"/>
-        <children xmi:type="notation:Node" xmi:id="_pK072UvkEeOkfJPuKYRi4w" type="3005">
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_pK072kvkEeOkfJPuKYRi4w"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_pK0720vkEeOkfJPuKYRi4w" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_pK073EvkEeOkfJPuKYRi4w"/>
-          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@interfaceStub"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pK073UvkEeOkfJPuKYRi4w"/>
-        </children>
-        <children xmi:type="notation:Node" xmi:id="_QKGHcHymEeOv_NzYyOiRQA" type="3003">
-          <children xmi:type="notation:DecorationNode" xmi:id="_QKGHdXymEeOv_NzYyOiRQA" type="5001">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_QKGHdnymEeOv_NzYyOiRQA" y="5"/>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://sca.jpeojtrs.mil/diagram" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:partitioning="http://sca.jpeojtrs.mil/partitioning" xmlns:sad="http://sca.jpeojtrs.mil/sad" xmi:id="_H01yEOqWEeOXk5jv71q7rw" type="Sad" name="RBDS_wf.sad_diagramV2" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_aPOCsOqWEeOXk5jv71q7rw" type="3001" fontName="Sans">
+    <children xmi:type="notation:DecorationNode" xmi:id="_aPOCsuqWEeOXk5jv71q7rw" type="5006"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_aPOCs-qWEeOXk5jv71q7rw" type="7002">
+      <children xmi:type="notation:Shape" xmi:id="_aPPQ0OqWEeOXk5jv71q7rw" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_aPPQ0uqWEeOXk5jv71q7rw" type="5004"/>
+        <children xmi:type="notation:Node" xmi:id="_aPQe8OqWEeOXk5jv71q7rw" type="3003">
+          <children xmi:type="notation:DecorationNode" xmi:id="_aPQe9eqWEeOXk5jv71q7rw" type="5001">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_aPQe9uqWEeOXk5jv71q7rw" y="5"/>
           </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_QKGHcXymEeOv_NzYyOiRQA"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_QKGHcnymEeOv_NzYyOiRQA" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_QKGHc3ymEeOv_NzYyOiRQA"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_aPQe8eqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_aPQe8uqWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_aPQe8-qWEeOXk5jv71q7rw"/>
           <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@uses.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QKGHdHymEeOv_NzYyOiRQA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aPQe9OqWEeOXk5jv71q7rw"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_QKGHd3ymEeOv_NzYyOiRQA" type="3004">
-          <children xmi:type="notation:DecorationNode" xmi:id="_QKGHfHymEeOv_NzYyOiRQA" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_QKGHfXymEeOv_NzYyOiRQA" y="5"/>
+        <children xmi:type="notation:Node" xmi:id="_aPRGAOqWEeOXk5jv71q7rw" type="3004">
+          <children xmi:type="notation:DecorationNode" xmi:id="_aPRGBeqWEeOXk5jv71q7rw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_aPRGBuqWEeOXk5jv71q7rw" y="5"/>
           </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_QKGHeHymEeOv_NzYyOiRQA"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_QKGHeXymEeOv_NzYyOiRQA" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_QKGHenymEeOv_NzYyOiRQA"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_aPRGAeqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_aPRGAuqWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_aPRGA-qWEeOXk5jv71q7rw"/>
           <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@provides.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QKGHe3ymEeOv_NzYyOiRQA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aPRGBOqWEeOXk5jv71q7rw"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_QKGHfnymEeOv_NzYyOiRQA" type="3004">
-          <children xmi:type="notation:DecorationNode" xmi:id="_QKGugHymEeOv_NzYyOiRQA" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_QKGugXymEeOv_NzYyOiRQA" y="5"/>
-          </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_QKGHf3ymEeOv_NzYyOiRQA"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_QKGHgHymEeOv_NzYyOiRQA" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_QKGHgXymEeOv_NzYyOiRQA"/>
-          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@provides.1"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QKGHgnymEeOv_NzYyOiRQA"/>
-        </children>
-        <children xmi:type="notation:Node" xmi:id="_QKGugnymEeOv_NzYyOiRQA" type="3004">
-          <children xmi:type="notation:DecorationNode" xmi:id="_QKGuh3ymEeOv_NzYyOiRQA" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_QKGuiHymEeOv_NzYyOiRQA" y="5"/>
-          </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_QKGug3ymEeOv_NzYyOiRQA"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_QKGuhHymEeOv_NzYyOiRQA" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_QKGuhXymEeOv_NzYyOiRQA"/>
-          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@provides.2"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QKGuhnymEeOv_NzYyOiRQA"/>
-        </children>
-        <children xmi:type="notation:Node" xmi:id="_QKGuiXymEeOv_NzYyOiRQA" type="3004">
-          <children xmi:type="notation:DecorationNode" xmi:id="_QKGujnymEeOv_NzYyOiRQA" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_QKGuj3ymEeOv_NzYyOiRQA" y="5"/>
-          </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_QKGuinymEeOv_NzYyOiRQA"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_QKGui3ymEeOv_NzYyOiRQA" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_QKGujHymEeOv_NzYyOiRQA"/>
-          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@provides.3"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QKGujXymEeOv_NzYyOiRQA"/>
-        </children>
-        <element xmi:type="sad:SadComponentInstantiation" href="RBDS_wf.sad.xml#Mixer_1"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pKyfkUvkEeOkfJPuKYRi4w"/>
-      </children>
-      <styles xmi:type="notation:SortingStyle" xmi:id="_pKwqZEvkEeOkfJPuKYRi4w"/>
-      <styles xmi:type="notation:FilteringStyle" xmi:id="_pKwqZUvkEeOkfJPuKYRi4w"/>
-    </children>
-    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.0"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pKwqYUvkEeOkfJPuKYRi4w" x="370" y="120"/>
-  </children>
-  <children xmi:type="notation:Shape" xmi:id="_6u2zQEvkEeOkfJPuKYRi4w" type="3001" fontName="Sans">
-    <children xmi:type="notation:DecorationNode" xmi:id="_6u3aUEvkEeOkfJPuKYRi4w" type="5006"/>
-    <children xmi:type="notation:DecorationNode" xmi:id="_6u3aUUvkEeOkfJPuKYRi4w" type="7002">
-      <children xmi:type="notation:Shape" xmi:id="_6u4ocEvkEeOkfJPuKYRi4w" type="3002" fontName="Sans">
-        <children xmi:type="notation:DecorationNode" xmi:id="_6u4ockvkEeOkfJPuKYRi4w" type="5004"/>
-        <children xmi:type="notation:Node" xmi:id="_6u7Et0vkEeOkfJPuKYRi4w" type="3005">
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_6u7EuEvkEeOkfJPuKYRi4w"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_6u7EuUvkEeOkfJPuKYRi4w" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_6u7EukvkEeOkfJPuKYRi4w"/>
-          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@interfaceStub"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6u7Eu0vkEeOkfJPuKYRi4w"/>
-        </children>
-        <children xmi:type="notation:Node" xmi:id="_QKQfgHymEeOv_NzYyOiRQA" type="3003">
-          <children xmi:type="notation:DecorationNode" xmi:id="_QKQfhXymEeOv_NzYyOiRQA" type="5001">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_QKQfhnymEeOv_NzYyOiRQA" y="5"/>
-          </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_QKQfgXymEeOv_NzYyOiRQA"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_QKQfgnymEeOv_NzYyOiRQA" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_QKQfg3ymEeOv_NzYyOiRQA"/>
-          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@uses.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QKQfhHymEeOv_NzYyOiRQA"/>
-        </children>
-        <children xmi:type="notation:Node" xmi:id="_QKQfh3ymEeOv_NzYyOiRQA" type="3004">
-          <children xmi:type="notation:DecorationNode" xmi:id="_QKQfjHymEeOv_NzYyOiRQA" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_QKQfjXymEeOv_NzYyOiRQA" y="5"/>
-          </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_QKQfiHymEeOv_NzYyOiRQA"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_QKQfiXymEeOv_NzYyOiRQA" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_QKQfinymEeOv_NzYyOiRQA"/>
-          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@provides.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QKQfi3ymEeOv_NzYyOiRQA"/>
-        </children>
-        <children xmi:type="notation:Node" xmi:id="_QKQfjnymEeOv_NzYyOiRQA" type="3004">
-          <children xmi:type="notation:DecorationNode" xmi:id="_QKQfk3ymEeOv_NzYyOiRQA" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_QKQflHymEeOv_NzYyOiRQA" y="5"/>
-          </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_QKQfj3ymEeOv_NzYyOiRQA"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_QKQfkHymEeOv_NzYyOiRQA" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_QKQfkXymEeOv_NzYyOiRQA"/>
-          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@provides.1"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QKQfknymEeOv_NzYyOiRQA"/>
-        </children>
-        <element xmi:type="sad:SadComponentInstantiation" href="RBDS_wf.sad.xml#BPSK_1"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6u4ocUvkEeOkfJPuKYRi4w"/>
-      </children>
-      <styles xmi:type="notation:SortingStyle" xmi:id="_6u3aUkvkEeOkfJPuKYRi4w"/>
-      <styles xmi:type="notation:FilteringStyle" xmi:id="_6u3aU0vkEeOkfJPuKYRi4w"/>
-    </children>
-    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.1"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6u2zQUvkEeOkfJPuKYRi4w" y="492"/>
-  </children>
-  <children xmi:type="notation:Shape" xmi:id="_GTIHsEvlEeOkfJPuKYRi4w" type="3001" fontName="Sans">
-    <children xmi:type="notation:DecorationNode" xmi:id="_GTIHskvlEeOkfJPuKYRi4w" type="5006"/>
-    <children xmi:type="notation:DecorationNode" xmi:id="_GTIHs0vlEeOkfJPuKYRi4w" type="7002">
-      <children xmi:type="notation:Shape" xmi:id="_GTJ84EvlEeOkfJPuKYRi4w" type="3002" fontName="Sans">
-        <children xmi:type="notation:DecorationNode" xmi:id="_GTJ84kvlEeOkfJPuKYRi4w" type="5004"/>
-        <children xmi:type="notation:Node" xmi:id="_GTMZIEvlEeOkfJPuKYRi4w" type="3005">
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_GTMZIUvlEeOkfJPuKYRi4w"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_GTMZIkvlEeOkfJPuKYRi4w" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_GTMZI0vlEeOkfJPuKYRi4w"/>
-          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@interfaceStub"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GTMZJEvlEeOkfJPuKYRi4w"/>
-        </children>
-        <children xmi:type="notation:Node" xmi:id="_-YQBAHymEeOR14uD_82SuQ" type="3003">
-          <children xmi:type="notation:DecorationNode" xmi:id="_-YQoEHymEeOR14uD_82SuQ" type="5001">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_-YQoEXymEeOR14uD_82SuQ" y="5"/>
-          </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_-YQBAXymEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_-YQBAnymEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_-YQBA3ymEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@uses.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-YQBBHymEeOR14uD_82SuQ"/>
-        </children>
-        <children xmi:type="notation:Node" xmi:id="_-YQoEnymEeOR14uD_82SuQ" type="3004">
-          <children xmi:type="notation:DecorationNode" xmi:id="_-YQoF3ymEeOR14uD_82SuQ" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_-YQoGHymEeOR14uD_82SuQ" y="5"/>
-          </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_-YQoE3ymEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_-YQoFHymEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_-YQoFXymEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@provides.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-YQoFnymEeOR14uD_82SuQ"/>
-        </children>
-        <element xmi:type="sad:SadComponentInstantiation" href="RBDS_wf.sad.xml#DifferentialDecoder_1"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GTJ84UvlEeOkfJPuKYRi4w"/>
-      </children>
-      <styles xmi:type="notation:SortingStyle" xmi:id="_GTIHtEvlEeOkfJPuKYRi4w"/>
-      <styles xmi:type="notation:FilteringStyle" xmi:id="_GTIHtUvlEeOkfJPuKYRi4w"/>
-    </children>
-    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.2"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GTIHsUvlEeOkfJPuKYRi4w" x="328" y="492"/>
-  </children>
-  <children xmi:type="notation:Shape" xmi:id="_H2YqMEvlEeOkfJPuKYRi4w" type="3001" fontName="Sans">
-    <children xmi:type="notation:DecorationNode" xmi:id="_H2YqMkvlEeOkfJPuKYRi4w" type="5006"/>
-    <children xmi:type="notation:DecorationNode" xmi:id="_H2ZRQEvlEeOkfJPuKYRi4w" type="7002">
-      <children xmi:type="notation:Shape" xmi:id="_H2afYEvlEeOkfJPuKYRi4w" type="3002" fontName="Sans">
-        <children xmi:type="notation:DecorationNode" xmi:id="_H2afYkvlEeOkfJPuKYRi4w" type="5004"/>
-        <children xmi:type="notation:Node" xmi:id="_H2c7pEvlEeOkfJPuKYRi4w" type="3005">
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_H2c7pUvlEeOkfJPuKYRi4w"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_H2c7pkvlEeOkfJPuKYRi4w" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_H2c7p0vlEeOkfJPuKYRi4w"/>
-          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@interfaceStub"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H2c7qEvlEeOkfJPuKYRi4w"/>
-        </children>
-        <children xmi:type="notation:Node" xmi:id="_-YU5gHymEeOR14uD_82SuQ" type="3003">
-          <children xmi:type="notation:DecorationNode" xmi:id="_-YU5hXymEeOR14uD_82SuQ" type="5001">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_-YU5hnymEeOR14uD_82SuQ" y="5"/>
-          </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_-YU5gXymEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_-YU5gnymEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_-YU5g3ymEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@uses.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-YU5hHymEeOR14uD_82SuQ"/>
-        </children>
-        <children xmi:type="notation:Node" xmi:id="_-YU5h3ymEeOR14uD_82SuQ" type="3004">
-          <children xmi:type="notation:DecorationNode" xmi:id="_-YVgkHymEeOR14uD_82SuQ" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_-YVgkXymEeOR14uD_82SuQ" y="5"/>
-          </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_-YU5iHymEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_-YU5iXymEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_-YU5inymEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@provides.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-YU5i3ymEeOR14uD_82SuQ"/>
-        </children>
-        <element xmi:type="sad:SadComponentInstantiation" href="RBDS_wf.sad.xml#RBDSDecoder_1"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H2afYUvlEeOkfJPuKYRi4w"/>
-      </children>
-      <styles xmi:type="notation:SortingStyle" xmi:id="_H2ZRQUvlEeOkfJPuKYRi4w"/>
-      <styles xmi:type="notation:FilteringStyle" xmi:id="_H2ZRQkvlEeOkfJPuKYRi4w"/>
-    </children>
-    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.3"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H2YqMUvlEeOkfJPuKYRi4w" x="656" y="492"/>
-  </children>
-  <children xmi:type="notation:Shape" xmi:id="_EudisGaOEeOsVtseDrOPig" type="12002" element="_EubGcWaOEeOsVtseDrOPig" fontName="Sans">
-    <children xmi:type="notation:DecorationNode" xmi:id="_EueJwGaOEeOsVtseDrOPig" type="17005">
-      <children xmi:type="notation:Shape" xmi:id="_Gbo18GctEeOuwpyNRLiFPQ" type="13012" element="_GbXJIWctEeOuwpyNRLiFPQ" fontName="Sans">
-        <children xmi:type="notation:DecorationNode" xmi:id="_GbpdAGctEeOuwpyNRLiFPQ" type="15014"/>
-        <children xmi:type="notation:DecorationNode" xmi:id="_GbpdAWctEeOuwpyNRLiFPQ" type="15015"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Gbo18WctEeOuwpyNRLiFPQ"/>
-      </children>
-      <styles xmi:type="notation:SortingStyle" xmi:id="_EueJwWaOEeOsVtseDrOPig"/>
-      <styles xmi:type="notation:FilteringStyle" xmi:id="_EueJwmaOEeOsVtseDrOPig"/>
-    </children>
-    <children xmi:type="notation:DecorationNode" xmi:id="_EueJw2aOEeOsVtseDrOPig" type="15018"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EudisWaOEeOsVtseDrOPig" x="943" y="533"/>
-  </children>
-  <children xmi:type="notation:Shape" xmi:id="__IhAUHymEeOR14uD_82SuQ" type="3001" fontName="Sans">
-    <children xmi:type="notation:DecorationNode" xmi:id="__IhAUnymEeOR14uD_82SuQ" type="5006"/>
-    <children xmi:type="notation:DecorationNode" xmi:id="__IhAU3ymEeOR14uD_82SuQ" type="7002">
-      <children xmi:type="notation:Shape" xmi:id="__IiOcHymEeOR14uD_82SuQ" type="3002" fontName="Sans">
-        <children xmi:type="notation:DecorationNode" xmi:id="__Ii1gHymEeOR14uD_82SuQ" type="5004"/>
-        <children xmi:type="notation:Node" xmi:id="__IkDoHymEeOR14uD_82SuQ" type="3003">
-          <children xmi:type="notation:DecorationNode" xmi:id="__IkDpXymEeOR14uD_82SuQ" type="5001">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="__IkDpnymEeOR14uD_82SuQ" y="5"/>
-          </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="__IkDoXymEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="__IkDonymEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="__IkDo3ymEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@uses.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="__IkDpHymEeOR14uD_82SuQ"/>
-        </children>
-        <children xmi:type="notation:Node" xmi:id="__IkDp3ymEeOR14uD_82SuQ" type="3004">
-          <children xmi:type="notation:DecorationNode" xmi:id="__IkqsHymEeOR14uD_82SuQ" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="__IkqsXymEeOR14uD_82SuQ" y="5"/>
-          </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="__IkDqHymEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="__IkDqXymEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="__IkDqnymEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@provides.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="__IkDq3ymEeOR14uD_82SuQ"/>
-        </children>
-        <children xmi:type="notation:Node" xmi:id="__IkqsnymEeOR14uD_82SuQ" type="3005">
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="__Ikqs3ymEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="__IkqtHymEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="__IkqtXymEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@interfaceStub"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="__IkqtnymEeOR14uD_82SuQ"/>
+        <children xmi:type="notation:Node" xmi:id="_aPRGB-qWEeOXk5jv71q7rw" type="3005">
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_aPRGCOqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_aPRGCeqWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_aPRGCuqWEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@interfaceStub"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aPRGC-qWEeOXk5jv71q7rw"/>
         </children>
         <element xmi:type="sad:SadComponentInstantiation" href="RBDS_wf.sad.xml#FMDemodulator_1"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="__IiOcXymEeOR14uD_82SuQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aPPQ0eqWEeOXk5jv71q7rw"/>
       </children>
-      <styles xmi:type="notation:SortingStyle" xmi:id="__IhAVHymEeOR14uD_82SuQ"/>
-      <styles xmi:type="notation:FilteringStyle" xmi:id="__IhAVXymEeOR14uD_82SuQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_aPOCtOqWEeOXk5jv71q7rw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_aPOCteqWEeOXk5jv71q7rw"/>
     </children>
-    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.4"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="__IhAUXymEeOR14uD_82SuQ" x="210" y="-50"/>
+    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.0"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aPOCseqWEeOXk5jv71q7rw" x="46" y="46"/>
   </children>
-  <children xmi:type="notation:Shape" xmi:id="_LApE4HynEeOR14uD_82SuQ" type="3001" fontName="Sans">
-    <children xmi:type="notation:DecorationNode" xmi:id="_LApr8HynEeOR14uD_82SuQ" type="5006"/>
-    <children xmi:type="notation:DecorationNode" xmi:id="_LApr8XynEeOR14uD_82SuQ" type="7002">
-      <children xmi:type="notation:Shape" xmi:id="_LAq6EHynEeOR14uD_82SuQ" type="3002" fontName="Sans">
-        <children xmi:type="notation:DecorationNode" xmi:id="_LAq6EnynEeOR14uD_82SuQ" type="5004"/>
-        <children xmi:type="notation:Node" xmi:id="_LAsvQnynEeOR14uD_82SuQ" type="3004">
-          <children xmi:type="notation:DecorationNode" xmi:id="_LAsvR3ynEeOR14uD_82SuQ" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_LAsvSHynEeOR14uD_82SuQ" y="5"/>
+  <children xmi:type="notation:Shape" xmi:id="_b-4pgOqWEeOXk5jv71q7rw" type="3001" fontName="Sans">
+    <children xmi:type="notation:DecorationNode" xmi:id="_b-4pguqWEeOXk5jv71q7rw" type="5006"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_b-4pg-qWEeOXk5jv71q7rw" type="7002">
+      <children xmi:type="notation:Shape" xmi:id="_b-53oOqWEeOXk5jv71q7rw" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_b-53ouqWEeOXk5jv71q7rw" type="5004"/>
+        <children xmi:type="notation:Node" xmi:id="_b-7FwOqWEeOXk5jv71q7rw" type="3003">
+          <children xmi:type="notation:DecorationNode" xmi:id="_b-7FxeqWEeOXk5jv71q7rw" type="5001">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_b-7FxuqWEeOXk5jv71q7rw" y="5"/>
           </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_LAsvQ3ynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_LAsvRHynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_LAsvRXynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@provides.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LAsvRnynEeOR14uD_82SuQ"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_b-7FweqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_b-7FwuqWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_b-7Fw-qWEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@uses.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b-7FxOqWEeOXk5jv71q7rw"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_LAsvSXynEeOR14uD_82SuQ" type="3005">
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_LAsvSnynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_LAsvS3ynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_LAsvTHynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@interfaceStub"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LAsvTXynEeOR14uD_82SuQ"/>
+        <children xmi:type="notation:Node" xmi:id="_b-7s0OqWEeOXk5jv71q7rw" type="3004">
+          <children xmi:type="notation:DecorationNode" xmi:id="_b-7s1eqWEeOXk5jv71q7rw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_b-7s1uqWEeOXk5jv71q7rw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_b-7s0eqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_b-7s0uqWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_b-7s0-qWEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@provides.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b-7s1OqWEeOXk5jv71q7rw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_b-7s1-qWEeOXk5jv71q7rw" type="3005">
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_b-7s2OqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_b-7s2eqWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_b-7s2uqWEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@interfaceStub"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b-7s2-qWEeOXk5jv71q7rw"/>
         </children>
         <element xmi:type="sad:SadComponentInstantiation" href="RBDS_wf.sad.xml#FilterDecimate_1"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LAq6EXynEeOR14uD_82SuQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b-53oeqWEeOXk5jv71q7rw"/>
       </children>
-      <styles xmi:type="notation:SortingStyle" xmi:id="_LApr8nynEeOR14uD_82SuQ"/>
-      <styles xmi:type="notation:FilteringStyle" xmi:id="_LApr83ynEeOR14uD_82SuQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_b-4phOqWEeOXk5jv71q7rw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_b-4pheqWEeOXk5jv71q7rw"/>
     </children>
-    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.5"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LApE4XynEeOR14uD_82SuQ" x="520" y="-50"/>
+    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.1"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b-4pgeqWEeOXk5jv71q7rw" x="368" y="46"/>
   </children>
-  <children xmi:type="notation:Shape" xmi:id="_LdfY8HynEeOR14uD_82SuQ" type="3001" fontName="Sans">
-    <children xmi:type="notation:DecorationNode" xmi:id="_LdgAAHynEeOR14uD_82SuQ" type="5006"/>
-    <children xmi:type="notation:DecorationNode" xmi:id="_LdgAAXynEeOR14uD_82SuQ" type="7002">
-      <children xmi:type="notation:Shape" xmi:id="_LdhOIHynEeOR14uD_82SuQ" type="3002" fontName="Sans">
-        <children xmi:type="notation:DecorationNode" xmi:id="_LdhOInynEeOR14uD_82SuQ" type="5004"/>
-        <children xmi:type="notation:Node" xmi:id="_LdicQHynEeOR14uD_82SuQ" type="3003">
-          <children xmi:type="notation:DecorationNode" xmi:id="_LdjDUHynEeOR14uD_82SuQ" type="5001">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_LdjDUXynEeOR14uD_82SuQ" y="5"/>
+  <children xmi:type="notation:Shape" xmi:id="_eKT_QOqWEeOXk5jv71q7rw" type="3001" fontName="Sans">
+    <children xmi:type="notation:DecorationNode" xmi:id="_eKUmUOqWEeOXk5jv71q7rw" type="5006"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_eKUmUeqWEeOXk5jv71q7rw" type="7002">
+      <children xmi:type="notation:Shape" xmi:id="_eKXpoOqWEeOXk5jv71q7rw" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_eKYQsOqWEeOXk5jv71q7rw" type="5004"/>
+        <children xmi:type="notation:Node" xmi:id="_eKas8OqWEeOXk5jv71q7rw" type="3003">
+          <children xmi:type="notation:DecorationNode" xmi:id="_eKbUAOqWEeOXk5jv71q7rw" type="5001">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_eKbUAeqWEeOXk5jv71q7rw" y="5"/>
           </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_LdicQXynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_LdicQnynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_LdicQ3ynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.6/@componentInstantiation.0/@uses.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LdicRHynEeOR14uD_82SuQ"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_eKas8eqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_eKas8uqWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_eKas8-qWEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@uses.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eKas9OqWEeOXk5jv71q7rw"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_LdjDUnynEeOR14uD_82SuQ" type="3004">
-          <children xmi:type="notation:DecorationNode" xmi:id="_LdjDV3ynEeOR14uD_82SuQ" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_LdjDWHynEeOR14uD_82SuQ" y="5"/>
+        <children xmi:type="notation:Node" xmi:id="_eKb7EOqWEeOXk5jv71q7rw" type="3004">
+          <children xmi:type="notation:DecorationNode" xmi:id="_eKb7FeqWEeOXk5jv71q7rw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_eKb7FuqWEeOXk5jv71q7rw" y="5"/>
           </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_LdjDU3ynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_LdjDVHynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_LdjDVXynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.6/@componentInstantiation.0/@provides.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LdjDVnynEeOR14uD_82SuQ"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_eKb7EeqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_eKb7EuqWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_eKb7E-qWEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@provides.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eKb7FOqWEeOXk5jv71q7rw"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_LdjDWXynEeOR14uD_82SuQ" type="3005">
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_LdjDWnynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_LdjDW3ynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_LdjDXHynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.6/@componentInstantiation.0/@interfaceStub"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LdjDXXynEeOR14uD_82SuQ"/>
+        <children xmi:type="notation:Node" xmi:id="_eKb7F-qWEeOXk5jv71q7rw" type="3005">
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_eKb7GOqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_eKb7GeqWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_eKb7GuqWEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@interfaceStub"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eKb7G-qWEeOXk5jv71q7rw"/>
         </children>
         <element xmi:type="sad:SadComponentInstantiation" href="RBDS_wf.sad.xml#FilterDecimate_2"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LdhOIXynEeOR14uD_82SuQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eKXpoeqWEeOXk5jv71q7rw"/>
       </children>
-      <styles xmi:type="notation:SortingStyle" xmi:id="_LdgAAnynEeOR14uD_82SuQ"/>
-      <styles xmi:type="notation:FilteringStyle" xmi:id="_LdgAA3ynEeOR14uD_82SuQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_eKUmUuqWEeOXk5jv71q7rw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_eKUmU-qWEeOXk5jv71q7rw"/>
     </children>
-    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.6"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LdfY8XynEeOR14uD_82SuQ" x="20" y="120"/>
+    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.2"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eKT_QeqWEeOXk5jv71q7rw" x="46" y="230"/>
   </children>
-  <children xmi:type="notation:Shape" xmi:id="_Lyv3QHynEeOR14uD_82SuQ" type="3001" fontName="Sans">
-    <children xmi:type="notation:DecorationNode" xmi:id="_Lyv3QnynEeOR14uD_82SuQ" type="5006"/>
-    <children xmi:type="notation:DecorationNode" xmi:id="_Lyv3Q3ynEeOR14uD_82SuQ" type="7002">
-      <children xmi:type="notation:Shape" xmi:id="_LyxscHynEeOR14uD_82SuQ" type="3002" fontName="Sans">
-        <children xmi:type="notation:DecorationNode" xmi:id="_LyxscnynEeOR14uD_82SuQ" type="5004"/>
-        <children xmi:type="notation:Node" xmi:id="_Lyy6kHynEeOR14uD_82SuQ" type="3003">
-          <children xmi:type="notation:DecorationNode" xmi:id="_Lyy6lXynEeOR14uD_82SuQ" type="5001">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_Lyy6lnynEeOR14uD_82SuQ" y="5"/>
+  <children xmi:type="notation:Shape" xmi:id="_e2tyQOqWEeOXk5jv71q7rw" type="3001" fontName="Sans">
+    <children xmi:type="notation:DecorationNode" xmi:id="_e2uZUOqWEeOXk5jv71q7rw" type="5006"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_e2uZUeqWEeOXk5jv71q7rw" type="7002">
+      <children xmi:type="notation:Shape" xmi:id="_e2xcoOqWEeOXk5jv71q7rw" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_e2xcouqWEeOXk5jv71q7rw" type="5004"/>
+        <children xmi:type="notation:Node" xmi:id="_e2yqwOqWEeOXk5jv71q7rw" type="3003">
+          <children xmi:type="notation:DecorationNode" xmi:id="_e2zR0OqWEeOXk5jv71q7rw" type="5001">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_e2zR0eqWEeOXk5jv71q7rw" y="5"/>
           </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_Lyy6kXynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_Lyy6knynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_Lyy6k3ynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.7/@componentInstantiation.0/@uses.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Lyy6lHynEeOR14uD_82SuQ"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_e2yqweqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_e2yqwuqWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_e2yqw-qWEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@uses.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e2yqxOqWEeOXk5jv71q7rw"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_Lyy6l3ynEeOR14uD_82SuQ" type="3004">
-          <children xmi:type="notation:DecorationNode" xmi:id="_LyzhoHynEeOR14uD_82SuQ" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_LyzhoXynEeOR14uD_82SuQ" y="5"/>
+        <children xmi:type="notation:Node" xmi:id="_e2zR0uqWEeOXk5jv71q7rw" type="3004">
+          <children xmi:type="notation:DecorationNode" xmi:id="_e2zR1-qWEeOXk5jv71q7rw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_e2zR2OqWEeOXk5jv71q7rw" y="5"/>
           </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_Lyy6mHynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_Lyy6mXynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_Lyy6mnynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.7/@componentInstantiation.0/@provides.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Lyy6m3ynEeOR14uD_82SuQ"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_e2zR0-qWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_e2zR1OqWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_e2zR1eqWEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@provides.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e2zR1uqWEeOXk5jv71q7rw"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_LyzhonynEeOR14uD_82SuQ" type="3005">
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_Lyzho3ynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_LyzhpHynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_LyzhpXynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.7/@componentInstantiation.0/@interfaceStub"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LyzhpnynEeOR14uD_82SuQ"/>
+        <children xmi:type="notation:Node" xmi:id="_e2zR2eqWEeOXk5jv71q7rw" type="3005">
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_e2zR2uqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_e2zR2-qWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_e2zR3OqWEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@interfaceStub"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e2zR3eqWEeOXk5jv71q7rw"/>
         </children>
         <element xmi:type="sad:SadComponentInstantiation" href="RBDS_wf.sad.xml#FilterDecimate_3"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LyxscXynEeOR14uD_82SuQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e2xcoeqWEeOXk5jv71q7rw"/>
       </children>
-      <styles xmi:type="notation:SortingStyle" xmi:id="_LyweUHynEeOR14uD_82SuQ"/>
-      <styles xmi:type="notation:FilteringStyle" xmi:id="_LyweUXynEeOR14uD_82SuQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_e2uZUuqWEeOXk5jv71q7rw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_e2uZU-qWEeOXk5jv71q7rw"/>
     </children>
-    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.7"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Lyv3QXynEeOR14uD_82SuQ" x="20" y="300"/>
+    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.3"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e2tyQeqWEeOXk5jv71q7rw" x="46" y="417"/>
   </children>
-  <children xmi:type="notation:Shape" xmi:id="_RU4DEHynEeOR14uD_82SuQ" type="3001" fontName="Sans">
-    <children xmi:type="notation:DecorationNode" xmi:id="_RU4qIHynEeOR14uD_82SuQ" type="5006"/>
-    <children xmi:type="notation:DecorationNode" xmi:id="_RU4qIXynEeOR14uD_82SuQ" type="7002">
-      <children xmi:type="notation:Shape" xmi:id="_RU54QHynEeOR14uD_82SuQ" type="3002" fontName="Sans">
-        <children xmi:type="notation:DecorationNode" xmi:id="_RU54QnynEeOR14uD_82SuQ" type="5004"/>
-        <children xmi:type="notation:Node" xmi:id="_RU7GYHynEeOR14uD_82SuQ" type="3003">
-          <children xmi:type="notation:DecorationNode" xmi:id="_RU7GZXynEeOR14uD_82SuQ" type="5001">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_RU7tcHynEeOR14uD_82SuQ" y="5"/>
+  <children xmi:type="notation:Shape" xmi:id="_4K7BcOqWEeOXk5jv71q7rw" type="3001" fontName="Sans">
+    <children xmi:type="notation:DecorationNode" xmi:id="_4K7ogOqWEeOXk5jv71q7rw" type="5006"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_4K7ogeqWEeOXk5jv71q7rw" type="7002">
+      <children xmi:type="notation:Shape" xmi:id="_4K82oOqWEeOXk5jv71q7rw" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4K82ouqWEeOXk5jv71q7rw" type="5004"/>
+        <children xmi:type="notation:Node" xmi:id="_4K-EwOqWEeOXk5jv71q7rw" type="3003">
+          <children xmi:type="notation:DecorationNode" xmi:id="_4K-ExeqWEeOXk5jv71q7rw" type="5001">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_4K-ExuqWEeOXk5jv71q7rw" y="5"/>
           </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_RU7GYXynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_RU7GYnynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_RU7GY3ynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.8/@componentInstantiation.0/@uses.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RU7GZHynEeOR14uD_82SuQ"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_4K-EweqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_4K-EwuqWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_4K-Ew-qWEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@uses.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4K-ExOqWEeOXk5jv71q7rw"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_RU7tcXynEeOR14uD_82SuQ" type="3004">
-          <children xmi:type="notation:DecorationNode" xmi:id="_RU7tdnynEeOR14uD_82SuQ" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_RU7td3ynEeOR14uD_82SuQ" y="5"/>
+        <children xmi:type="notation:Node" xmi:id="_4K-Ex-qWEeOXk5jv71q7rw" type="3004">
+          <children xmi:type="notation:DecorationNode" xmi:id="_4K-EzOqWEeOXk5jv71q7rw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_4K-r0OqWEeOXk5jv71q7rw" y="5"/>
           </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_RU7tcnynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_RU7tc3ynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_RU7tdHynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.8/@componentInstantiation.0/@provides.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RU7tdXynEeOR14uD_82SuQ"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_4K-EyOqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_4K-EyeqWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_4K-EyuqWEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@provides.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4K-Ey-qWEeOXk5jv71q7rw"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_RU7teHynEeOR14uD_82SuQ" type="3005">
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_RU7teXynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_RU7tenynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_RU7te3ynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.8/@componentInstantiation.0/@interfaceStub"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RU7tfHynEeOR14uD_82SuQ"/>
+        <children xmi:type="notation:Node" xmi:id="_4K-r0eqWEeOXk5jv71q7rw" type="3004">
+          <children xmi:type="notation:DecorationNode" xmi:id="_4K-r1uqWEeOXk5jv71q7rw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_4K-r1-qWEeOXk5jv71q7rw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_4K-r0uqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_4K-r0-qWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_4K-r1OqWEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@provides.1"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4K-r1eqWEeOXk5jv71q7rw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_4K-r2OqWEeOXk5jv71q7rw" type="3004">
+          <children xmi:type="notation:DecorationNode" xmi:id="_4K-r3eqWEeOXk5jv71q7rw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_4K-r3uqWEeOXk5jv71q7rw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_4K-r2eqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_4K-r2uqWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_4K-r2-qWEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@provides.2"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4K-r3OqWEeOXk5jv71q7rw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_4K_S4OqWEeOXk5jv71q7rw" type="3004">
+          <children xmi:type="notation:DecorationNode" xmi:id="_4K_S5eqWEeOXk5jv71q7rw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_4K_S5uqWEeOXk5jv71q7rw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_4K_S4eqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_4K_S4uqWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_4K_S4-qWEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@provides.3"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4K_S5OqWEeOXk5jv71q7rw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_4K_S5-qWEeOXk5jv71q7rw" type="3005">
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_4K_S6OqWEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_4K_S6eqWEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_4K_S6uqWEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@interfaceStub"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4K_S6-qWEeOXk5jv71q7rw"/>
+        </children>
+        <element xmi:type="sad:SadComponentInstantiation" href="RBDS_wf.sad.xml#Mixer_1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4K82oeqWEeOXk5jv71q7rw"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_4K7oguqWEeOXk5jv71q7rw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_4K7og-qWEeOXk5jv71q7rw"/>
+    </children>
+    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.4"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4K7BceqWEeOXk5jv71q7rw" x="368" y="230"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_G-CQcOqXEeOXk5jv71q7rw" type="3001" fontName="Sans">
+    <children xmi:type="notation:DecorationNode" xmi:id="_G-CQcuqXEeOXk5jv71q7rw" type="5006"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_G-CQc-qXEeOXk5jv71q7rw" type="7002">
+      <children xmi:type="notation:Shape" xmi:id="_G-DekOqXEeOXk5jv71q7rw" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_G-DekuqXEeOXk5jv71q7rw" type="5004"/>
+        <children xmi:type="notation:Node" xmi:id="_G-EssOqXEeOXk5jv71q7rw" type="3003">
+          <children xmi:type="notation:DecorationNode" xmi:id="_G-EsteqXEeOXk5jv71q7rw" type="5001">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_G-FTwOqXEeOXk5jv71q7rw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_G-EsseqXEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_G-EssuqXEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_G-Ess-qXEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@uses.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_G-EstOqXEeOXk5jv71q7rw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_G-FTweqXEeOXk5jv71q7rw" type="3004">
+          <children xmi:type="notation:DecorationNode" xmi:id="_G-FTxuqXEeOXk5jv71q7rw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_G-FTx-qXEeOXk5jv71q7rw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_G-FTwuqXEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_G-FTw-qXEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_G-FTxOqXEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@provides.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_G-FTxeqXEeOXk5jv71q7rw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_G-FTyOqXEeOXk5jv71q7rw" type="3005">
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_G-FTyeqXEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_G-FTyuqXEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_G-FTy-qXEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@interfaceStub"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_G-FTzOqXEeOXk5jv71q7rw"/>
         </children>
         <element xmi:type="sad:SadComponentInstantiation" href="RBDS_wf.sad.xml#FrequencyDivider_1"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RU54QXynEeOR14uD_82SuQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_G-DekeqXEeOXk5jv71q7rw"/>
       </children>
-      <styles xmi:type="notation:SortingStyle" xmi:id="_RU4qInynEeOR14uD_82SuQ"/>
-      <styles xmi:type="notation:FilteringStyle" xmi:id="_RU4qI3ynEeOR14uD_82SuQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_G-CQdOqXEeOXk5jv71q7rw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_G-CQdeqXEeOXk5jv71q7rw"/>
     </children>
-    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.8"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RU4DEXynEeOR14uD_82SuQ" x="370" y="320"/>
+    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.5"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_G-CQceqXEeOXk5jv71q7rw" x="368" y="417"/>
   </children>
-  <children xmi:type="notation:Shape" xmi:id="_ppFN0HynEeOR14uD_82SuQ" type="3001" fontName="Sans">
-    <children xmi:type="notation:DecorationNode" xmi:id="_ppFN0nynEeOR14uD_82SuQ" type="5006"/>
-    <children xmi:type="notation:DecorationNode" xmi:id="_ppFN03ynEeOR14uD_82SuQ" type="7002">
-      <children xmi:type="notation:Shape" xmi:id="_ppGb8HynEeOR14uD_82SuQ" type="3002" fontName="Sans">
-        <children xmi:type="notation:DecorationNode" xmi:id="_ppHDAHynEeOR14uD_82SuQ" type="5004"/>
-        <children xmi:type="notation:Node" xmi:id="_ppIRIHynEeOR14uD_82SuQ" type="3003">
-          <children xmi:type="notation:DecorationNode" xmi:id="_ppIRJXynEeOR14uD_82SuQ" type="5001">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_ppIRJnynEeOR14uD_82SuQ" y="5"/>
+  <children xmi:type="notation:Shape" xmi:id="_KkCt0OqXEeOXk5jv71q7rw" type="3001" fontName="Sans">
+    <children xmi:type="notation:DecorationNode" xmi:id="_KkCt0uqXEeOXk5jv71q7rw" type="5006"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_KkDU4OqXEeOXk5jv71q7rw" type="7002">
+      <children xmi:type="notation:Shape" xmi:id="_HVOL8OqYEeOXk5jv71q7rw" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_HVOL8uqYEeOXk5jv71q7rw" type="5004"/>
+        <children xmi:type="notation:Node" xmi:id="_HVOzAOqYEeOXk5jv71q7rw" type="3003">
+          <children xmi:type="notation:DecorationNode" xmi:id="_HVOzBeqYEeOXk5jv71q7rw" type="5001">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_HVPaEOqYEeOXk5jv71q7rw" y="5"/>
           </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_ppIRIXynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_ppIRInynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_ppIRI3ynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.9/@componentInstantiation.0/@uses.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ppIRJHynEeOR14uD_82SuQ"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_HVOzAeqYEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_HVOzAuqYEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_HVOzA-qYEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.6/@componentInstantiation.0/@uses.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HVOzBOqYEeOXk5jv71q7rw"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_ppIRJ3ynEeOR14uD_82SuQ" type="3004">
-          <children xmi:type="notation:DecorationNode" xmi:id="_ppI4MHynEeOR14uD_82SuQ" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_ppI4MXynEeOR14uD_82SuQ" y="5"/>
+        <children xmi:type="notation:Node" xmi:id="_HVPaEeqYEeOXk5jv71q7rw" type="3004">
+          <children xmi:type="notation:DecorationNode" xmi:id="_HVPaFuqYEeOXk5jv71q7rw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_HVPaF-qYEeOXk5jv71q7rw" y="5"/>
           </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_ppIRKHynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_ppIRKXynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_ppIRKnynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.9/@componentInstantiation.0/@provides.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ppIRK3ynEeOR14uD_82SuQ"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_HVPaEuqYEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_HVPaE-qYEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_HVPaFOqYEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.6/@componentInstantiation.0/@provides.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HVPaFeqYEeOXk5jv71q7rw"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_ppI4MnynEeOR14uD_82SuQ" type="3005">
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_ppI4M3ynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_ppI4NHynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_ppI4NXynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.9/@componentInstantiation.0/@interfaceStub"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ppI4NnynEeOR14uD_82SuQ"/>
+        <children xmi:type="notation:Node" xmi:id="_HVPaGOqYEeOXk5jv71q7rw" type="3005">
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_HVPaGeqYEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_HVPaGuqYEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_HVPaG-qYEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.6/@componentInstantiation.0/@interfaceStub"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HVPaHOqYEeOXk5jv71q7rw"/>
         </children>
         <element xmi:type="sad:SadComponentInstantiation" href="RBDS_wf.sad.xml#FilterDecimate_4"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ppGb8XynEeOR14uD_82SuQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HVOL8eqYEeOXk5jv71q7rw"/>
       </children>
-      <styles xmi:type="notation:SortingStyle" xmi:id="_ppFN1HynEeOR14uD_82SuQ"/>
-      <styles xmi:type="notation:FilteringStyle" xmi:id="_ppFN1XynEeOR14uD_82SuQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_KkDU4eqXEeOXk5jv71q7rw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_KkDU4uqXEeOXk5jv71q7rw"/>
     </children>
-    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.9"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ppFN0XynEeOR14uD_82SuQ" x="700" y="120"/>
+    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.6"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KkCt0eqXEeOXk5jv71q7rw" x="690" y="230"/>
   </children>
-  <children xmi:type="notation:Shape" xmi:id="_qF2pYHynEeOR14uD_82SuQ" type="3001" fontName="Sans">
-    <children xmi:type="notation:DecorationNode" xmi:id="_qF2pYnynEeOR14uD_82SuQ" type="5006"/>
-    <children xmi:type="notation:DecorationNode" xmi:id="_qF2pY3ynEeOR14uD_82SuQ" type="7002">
-      <children xmi:type="notation:Shape" xmi:id="_qF33gHynEeOR14uD_82SuQ" type="3002" fontName="Sans">
-        <children xmi:type="notation:DecorationNode" xmi:id="_qF33gnynEeOR14uD_82SuQ" type="5004"/>
-        <children xmi:type="notation:Node" xmi:id="_qF5ssHynEeOR14uD_82SuQ" type="3003">
-          <children xmi:type="notation:DecorationNode" xmi:id="_qF5stXynEeOR14uD_82SuQ" type="5001">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_qF5stnynEeOR14uD_82SuQ" y="5"/>
+  <children xmi:type="notation:Shape" xmi:id="_gSHj0OqXEeOXk5jv71q7rw" type="3001" fontName="Sans">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gSIK4OqXEeOXk5jv71q7rw" type="5006"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_gSIK4eqXEeOXk5jv71q7rw" type="7002">
+      <children xmi:type="notation:Shape" xmi:id="_HVTEcOqYEeOXk5jv71q7rw" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_HVTEcuqYEeOXk5jv71q7rw" type="5004"/>
+        <children xmi:type="notation:Node" xmi:id="_HVTrgOqYEeOXk5jv71q7rw" type="3003">
+          <children xmi:type="notation:DecorationNode" xmi:id="_HVUSkOqYEeOXk5jv71q7rw" type="5001">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_HVUSkeqYEeOXk5jv71q7rw" y="5"/>
           </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_qF5ssXynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_qF5ssnynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_qF5ss3ynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.10/@componentInstantiation.0/@uses.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qF5stHynEeOR14uD_82SuQ"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_HVTrgeqYEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_HVTrguqYEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_HVTrg-qYEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.7/@componentInstantiation.0/@uses.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HVTrhOqYEeOXk5jv71q7rw"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_qF5st3ynEeOR14uD_82SuQ" type="3004">
-          <children xmi:type="notation:DecorationNode" xmi:id="_qF5svHynEeOR14uD_82SuQ" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_qF5svXynEeOR14uD_82SuQ" y="5"/>
+        <children xmi:type="notation:Node" xmi:id="_HVUSkuqYEeOXk5jv71q7rw" type="3004">
+          <children xmi:type="notation:DecorationNode" xmi:id="_HVUSl-qYEeOXk5jv71q7rw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_HVUSmOqYEeOXk5jv71q7rw" y="5"/>
           </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_qF5suHynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_qF5suXynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_qF5sunynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.10/@componentInstantiation.0/@provides.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qF5su3ynEeOR14uD_82SuQ"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_HVUSk-qYEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_HVUSlOqYEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_HVUSleqYEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.7/@componentInstantiation.0/@provides.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HVUSluqYEeOXk5jv71q7rw"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_qF5svnynEeOR14uD_82SuQ" type="3005">
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_qF5sv3ynEeOR14uD_82SuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_qF5swHynEeOR14uD_82SuQ" fontName="Sans"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_qF5swXynEeOR14uD_82SuQ"/>
-          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.10/@componentInstantiation.0/@interfaceStub"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qF6TwHynEeOR14uD_82SuQ"/>
+        <children xmi:type="notation:Node" xmi:id="_HVUSmeqYEeOXk5jv71q7rw" type="3005">
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_HVUSmuqYEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_HVUSm-qYEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_HVUSnOqYEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.7/@componentInstantiation.0/@interfaceStub"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HVUSneqYEeOXk5jv71q7rw"/>
         </children>
         <element xmi:type="sad:SadComponentInstantiation" href="RBDS_wf.sad.xml#FilterDecimate_5"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qF33gXynEeOR14uD_82SuQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HVTEceqYEeOXk5jv71q7rw"/>
       </children>
-      <styles xmi:type="notation:SortingStyle" xmi:id="_qF2pZHynEeOR14uD_82SuQ"/>
-      <styles xmi:type="notation:FilteringStyle" xmi:id="_qF2pZXynEeOR14uD_82SuQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_gSIK4uqXEeOXk5jv71q7rw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_gSIK4-qXEeOXk5jv71q7rw"/>
+    </children>
+    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.7"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gSHj0eqXEeOXk5jv71q7rw" x="690" y="417"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_KI7CoOqYEeOXk5jv71q7rw" type="3001" fontName="Sans">
+    <children xmi:type="notation:DecorationNode" xmi:id="_KI7CouqYEeOXk5jv71q7rw" type="5006"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_KI7Co-qYEeOXk5jv71q7rw" type="7002">
+      <children xmi:type="notation:Shape" xmi:id="_KI8QwOqYEeOXk5jv71q7rw" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_KI8QwuqYEeOXk5jv71q7rw" type="5004"/>
+        <children xmi:type="notation:Node" xmi:id="_KI-F8OqYEeOXk5jv71q7rw" type="3003">
+          <children xmi:type="notation:DecorationNode" xmi:id="_KI-tAOqYEeOXk5jv71q7rw" type="5001">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_KI-tAeqYEeOXk5jv71q7rw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_KI-F8eqYEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_KI-F8uqYEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_KI-F8-qYEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.8/@componentInstantiation.0/@uses.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KI-F9OqYEeOXk5jv71q7rw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_KI-tAuqYEeOXk5jv71q7rw" type="3004">
+          <children xmi:type="notation:DecorationNode" xmi:id="_KI-tB-qYEeOXk5jv71q7rw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_KI-tCOqYEeOXk5jv71q7rw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_KI-tA-qYEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_KI-tBOqYEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_KI-tBeqYEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.8/@componentInstantiation.0/@provides.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KI-tBuqYEeOXk5jv71q7rw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_KI_UEOqYEeOXk5jv71q7rw" type="3004">
+          <children xmi:type="notation:DecorationNode" xmi:id="_KI_UFeqYEeOXk5jv71q7rw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_KI_UFuqYEeOXk5jv71q7rw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_KI_UEeqYEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_KI_UEuqYEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_KI_UE-qYEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.8/@componentInstantiation.0/@provides.1"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KI_UFOqYEeOXk5jv71q7rw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_KI_UF-qYEeOXk5jv71q7rw" type="3005">
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_KI_UGOqYEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_KI_UGeqYEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_KI_UGuqYEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.8/@componentInstantiation.0/@interfaceStub"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KI_7IOqYEeOXk5jv71q7rw"/>
+        </children>
+        <element xmi:type="sad:SadComponentInstantiation" href="RBDS_wf.sad.xml#BPSK_1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KI8QweqYEeOXk5jv71q7rw"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_KI7CpOqYEeOXk5jv71q7rw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_KI7CpeqYEeOXk5jv71q7rw"/>
+    </children>
+    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.8"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KI7CoeqYEeOXk5jv71q7rw" x="46" y="598"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_OKurMOqYEeOXk5jv71q7rw" type="3001" fontName="Sans">
+    <children xmi:type="notation:DecorationNode" xmi:id="_OKvSQeqYEeOXk5jv71q7rw" type="5006"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_OKvSQuqYEeOXk5jv71q7rw" type="7002">
+      <children xmi:type="notation:Shape" xmi:id="_OKwgYOqYEeOXk5jv71q7rw" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_OKwgYuqYEeOXk5jv71q7rw" type="5004"/>
+        <children xmi:type="notation:Node" xmi:id="_OKxHcOqYEeOXk5jv71q7rw" type="3003">
+          <children xmi:type="notation:DecorationNode" xmi:id="_OKxugOqYEeOXk5jv71q7rw" type="5001">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_OKxugeqYEeOXk5jv71q7rw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_OKxHceqYEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_OKxHcuqYEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_OKxHc-qYEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.9/@componentInstantiation.0/@uses.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OKxHdOqYEeOXk5jv71q7rw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_OKxuguqYEeOXk5jv71q7rw" type="3004">
+          <children xmi:type="notation:DecorationNode" xmi:id="_OKxuh-qYEeOXk5jv71q7rw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_OKxuiOqYEeOXk5jv71q7rw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_OKxug-qYEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_OKxuhOqYEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_OKxuheqYEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.9/@componentInstantiation.0/@provides.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OKxuhuqYEeOXk5jv71q7rw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_OKxuieqYEeOXk5jv71q7rw" type="3005">
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_OKxuiuqYEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_OKxui-qYEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_OKxujOqYEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.9/@componentInstantiation.0/@interfaceStub"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OKxujeqYEeOXk5jv71q7rw"/>
+        </children>
+        <element xmi:type="sad:SadComponentInstantiation" href="RBDS_wf.sad.xml#DifferentialDecoder_1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OKwgYeqYEeOXk5jv71q7rw"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_OKvSQ-qYEeOXk5jv71q7rw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OKvSROqYEeOXk5jv71q7rw"/>
+    </children>
+    <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.9"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OKvSQOqYEeOXk5jv71q7rw" x="368" y="601"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_Pg2woOqYEeOXk5jv71q7rw" type="3001" fontName="Sans">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Pg2wouqYEeOXk5jv71q7rw" type="5006"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Pg2wo-qYEeOXk5jv71q7rw" type="7002">
+      <children xmi:type="notation:Shape" xmi:id="_Pg3-wOqYEeOXk5jv71q7rw" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Pg3-wuqYEeOXk5jv71q7rw" type="5004"/>
+        <children xmi:type="notation:Node" xmi:id="_Pg5M4OqYEeOXk5jv71q7rw" type="3003">
+          <children xmi:type="notation:DecorationNode" xmi:id="_Pg5M5eqYEeOXk5jv71q7rw" type="5001">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Pg5z8OqYEeOXk5jv71q7rw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_Pg5M4eqYEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_Pg5M4uqYEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_Pg5M4-qYEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:UsesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.10/@componentInstantiation.0/@uses.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pg5M5OqYEeOXk5jv71q7rw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_Pg5z8eqYEeOXk5jv71q7rw" type="3004">
+          <children xmi:type="notation:DecorationNode" xmi:id="_Pg5z9uqYEeOXk5jv71q7rw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Pg5z9-qYEeOXk5jv71q7rw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_Pg5z8uqYEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_Pg5z8-qYEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_Pg5z9OqYEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ProvidesPortStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.10/@componentInstantiation.0/@provides.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pg5z9eqYEeOXk5jv71q7rw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_Pg5z-OqYEeOXk5jv71q7rw" type="3005">
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_Pg5z-eqYEeOXk5jv71q7rw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_Pg5z-uqYEeOXk5jv71q7rw" fontName="Sans"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_Pg5z--qYEeOXk5jv71q7rw"/>
+          <element xmi:type="partitioning:ComponentSupportedInterfaceStub" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.10/@componentInstantiation.0/@interfaceStub"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pg5z_OqYEeOXk5jv71q7rw"/>
+        </children>
+        <element xmi:type="sad:SadComponentInstantiation" href="RBDS_wf.sad.xml#RBDSDecoder_1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pg3-weqYEeOXk5jv71q7rw"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Pg2wpOqYEeOXk5jv71q7rw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Pg3XsOqYEeOXk5jv71q7rw"/>
     </children>
     <element xmi:type="sad:SadComponentPlacement" href="RBDS_wf.sad.xml#//@partitioning/@componentPlacement.10"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qF2pYXynEeOR14uD_82SuQ" x="690" y="310"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pg2woeqYEeOXk5jv71q7rw" x="690" y="601"/>
   </children>
-  <styles xmi:type="notation:DiagramStyle" xmi:id="_UmqUMEvkEeOkfJPuKYRi4w"/>
-  <styles xmi:type="diagram:EObjectContainerStyle" xmi:id="_UmqUMUvkEeOkfJPuKYRi4w" name="FindByStubContainer">
-    <value xmi:type="partitioning:FindByStubContainer" xmi:id="_NiJTIEvlEeOkfJPuKYRi4w">
-      <stubs xmi:type="partitioning:FindByStub" xmi:id="_EubGcWaOEeOsVtseDrOPig">
-        <domainFinder xmi:type="partitioning:DomainFinder" xmi:id="_GbXJIWctEeOuwpyNRLiFPQ" name="RBDS_Channel" type="eventchannel"/>
+  <children xmi:type="notation:Shape" xmi:id="_spSfYOqYEeOXk5jv71q7rw" type="12002" element="_spR4UOqYEeOXk5jv71q7rw" fontName="Sans">
+    <children xmi:type="notation:DecorationNode" xmi:id="_spSfYuqYEeOXk5jv71q7rw" type="17005">
+      <children xmi:type="notation:Shape" xmi:id="_tObMwOqYEeOXk5jv71q7rw" type="13012" element="_tOZ-oOqYEeOXk5jv71q7rw" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_tObMwuqYEeOXk5jv71q7rw" type="15014"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_tObMw-qYEeOXk5jv71q7rw" type="15015"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tObMweqYEeOXk5jv71q7rw"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_spSfY-qYEeOXk5jv71q7rw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_spSfZOqYEeOXk5jv71q7rw"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_spSfZeqYEeOXk5jv71q7rw" type="15018"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_spSfYeqYEeOXk5jv71q7rw" x="1058" y="644"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_H01yEeqWEeOXk5jv71q7rw"/>
+  <styles xmi:type="diagram:EObjectContainerStyle" xmi:id="_H01yEuqWEeOXk5jv71q7rw" name="FindByStubContainer">
+    <value xmi:type="partitioning:FindByStubContainer" xmi:id="_spQqMOqYEeOXk5jv71q7rw">
+      <stubs xmi:type="partitioning:FindByStub" xmi:id="_spR4UOqYEeOXk5jv71q7rw">
+        <domainFinder xmi:type="partitioning:DomainFinder" xmi:id="_tOZ-oOqYEeOXk5jv71q7rw" name="RBDS_Channel" type="eventchannel"/>
       </stubs>
     </value>
   </styles>
-  <element xmi:type="sad:SoftwareAssembly" href="RBDS_wf.sad.xml#DCE:d5012020-d78f-44fc-b03b-7a6886d992f3"/>
-  <edges xmi:type="notation:Connector" xmi:id="_-Yf4oHymEeOR14uD_82SuQ" type="4001" source="_QKQfgHymEeOv_NzYyOiRQA" target="_-YQoEnymEeOR14uD_82SuQ" routing="Rectilinear" avoidObstructions="true">
-    <styles xmi:type="notation:FontStyle" xmi:id="_-Yf4oXymEeOR14uD_82SuQ" fontName="Sans"/>
-    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_14"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-Yf4onymEeOR14uD_82SuQ" points="[5, 1, -11, 0]$[16, 1, 0, 0]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_-YiU4HymEeOR14uD_82SuQ" type="4001" source="_-YQBAHymEeOR14uD_82SuQ" target="_-YU5h3ymEeOR14uD_82SuQ" routing="Rectilinear" avoidObstructions="true">
-    <styles xmi:type="notation:FontStyle" xmi:id="_-YiU4XymEeOR14uD_82SuQ" fontName="Sans"/>
-    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_15"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-YiU4nymEeOR14uD_82SuQ" points="[8, 3, -27, -12]$[35, 15, 0, 0]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_NjOWYHynEeOR14uD_82SuQ" type="4001" source="__IkDoHymEeOR14uD_82SuQ" target="_LAsvQnynEeOR14uD_82SuQ" routing="Rectilinear" avoidObstructions="true">
-    <styles xmi:type="notation:FontStyle" xmi:id="_NjOWYXynEeOR14uD_82SuQ" fontName="Sans"/>
-    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_1"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_NjOWYnynEeOR14uD_82SuQ" points="[8, 2, -62, -16]$[70, 18, 0, 0]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_N1lRsHynEeOR14uD_82SuQ" type="4001" source="__IkDoHymEeOR14uD_82SuQ" target="_LdjDUnynEeOR14uD_82SuQ" avoidObstructions="true">
-    <styles xmi:type="notation:FontStyle" xmi:id="_N1lRsXynEeOR14uD_82SuQ" fontName="Sans"/>
-    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_2"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_N1lRsnynEeOR14uD_82SuQ" points="[-7, 4, 404, -185]$[-411, 189, 0, 0]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_OiL5AHynEeOR14uD_82SuQ" type="4001" source="__IkDoHymEeOR14uD_82SuQ" target="_Lyy6l3ynEeOR14uD_82SuQ" avoidObstructions="true">
-    <styles xmi:type="notation:FontStyle" xmi:id="_OiL5AXynEeOR14uD_82SuQ" fontName="Sans"/>
-    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_3"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_OiL5AnynEeOR14uD_82SuQ" points="[-8, 8, 402, -370]$[-410, 378, 0, 0]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_SSwAkHynEeOR14uD_82SuQ" type="4001" source="_LdicQHynEeOR14uD_82SuQ" target="_QKGHd3ymEeOv_NzYyOiRQA" routing="Rectilinear" avoidObstructions="true">
-    <styles xmi:type="notation:FontStyle" xmi:id="_SSwAkXynEeOR14uD_82SuQ" fontName="Sans"/>
-    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_4"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_SSwAknynEeOR14uD_82SuQ" points="[8, 1, -88, -19]$[96, 20, 0, 0]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_S17mIHynEeOR14uD_82SuQ" type="4001" source="_Lyy6kHynEeOR14uD_82SuQ" target="_QKGHfnymEeOv_NzYyOiRQA" routing="Rectilinear" avoidObstructions="true">
-    <styles xmi:type="notation:FontStyle" xmi:id="_S17mIXynEeOR14uD_82SuQ" fontName="Sans"/>
-    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_5"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_S17mInynEeOR14uD_82SuQ" points="[5, -7, -90, 129]$[95, -136, 0, 0]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_TGt0IHynEeOR14uD_82SuQ" type="4001" source="_Lyy6kHynEeOR14uD_82SuQ" target="_QKGugnymEeOv_NzYyOiRQA" routing="Rectilinear" avoidObstructions="true">
-    <styles xmi:type="notation:FontStyle" xmi:id="_TGt0IXynEeOR14uD_82SuQ" fontName="Sans"/>
-    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_6"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_TGt0InynEeOR14uD_82SuQ" points="[6, -7, -89, 106]$[95, -113, 0, 0]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_TVrdMHynEeOR14uD_82SuQ" type="4001" source="_Lyy6kHynEeOR14uD_82SuQ" target="_QKGuiXymEeOv_NzYyOiRQA" routing="Rectilinear" avoidObstructions="true">
-    <styles xmi:type="notation:FontStyle" xmi:id="_TVrdMXynEeOR14uD_82SuQ" fontName="Sans"/>
-    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_7"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_TVrdMnynEeOR14uD_82SuQ" points="[8, -7, -87, 83]$[95, -90, 0, 0]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_dmtoIHynEeOR14uD_82SuQ" type="4001" source="_Lyy6kHynEeOR14uD_82SuQ" target="_RU7tcXynEeOR14uD_82SuQ" routing="Rectilinear" avoidObstructions="true">
-    <styles xmi:type="notation:FontStyle" xmi:id="_dmtoIXynEeOR14uD_82SuQ" fontName="Sans"/>
-    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_8"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dmtoInynEeOR14uD_82SuQ" points="[8, 2, -88, -26]$[96, 28, 0, 0]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_qpor4HynEeOR14uD_82SuQ" type="4001" source="_RU7GYHynEeOR14uD_82SuQ" target="_qF5st3ynEeOR14uD_82SuQ" routing="Rectilinear" avoidObstructions="true">
-    <styles xmi:type="notation:FontStyle" xmi:id="_qpor4XynEeOR14uD_82SuQ" fontName="Sans"/>
-    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_9"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qpor4nynEeOR14uD_82SuQ" points="[8, 3, -55, -5]$[63, 8, 0, 0]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_s9C48HynEeOR14uD_82SuQ" type="4001" source="_QKGHcHymEeOv_NzYyOiRQA" target="_ppIRJ3ynEeOR14uD_82SuQ" routing="Rectilinear" avoidObstructions="true">
-    <styles xmi:type="notation:FontStyle" xmi:id="_s9C48XynEeOR14uD_82SuQ" fontName="Sans"/>
-    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_10"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_s9C48nynEeOR14uD_82SuQ" points="[8, 2, -45, -16]$[53, 18, 0, 0]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_0lTq0HynEeOR14uD_82SuQ" type="4001" source="_qF5ssHynEeOR14uD_82SuQ" target="_QKQfjnymEeOv_NzYyOiRQA" avoidObstructions="true">
-    <styles xmi:type="notation:FontStyle" xmi:id="_0lTq0XynEeOR14uD_82SuQ" fontName="Sans"/>
-    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_11"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_0lTq0nynEeOR14uD_82SuQ" points="[-7, 2, 917, -221]$[-924, 223, 0, 0]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_096YEHynEeOR14uD_82SuQ" type="4001" source="_ppIRIHynEeOR14uD_82SuQ" target="_QKQfh3ymEeOv_NzYyOiRQA" avoidObstructions="true">
-    <styles xmi:type="notation:FontStyle" xmi:id="_096YEXynEeOR14uD_82SuQ" fontName="Sans"/>
+  <element xmi:type="sad:SoftwareAssembly" href="RBDS_wf.sad.xml#DCE:a46b0d2b-2233-4e6c-b6a5-522fd3341114"/>
+  <edges xmi:type="notation:Connector" xmi:id="_QNf-wOqZEeOXk5jv71q7rw" type="4001" source="_HVOzAOqYEeOXk5jv71q7rw" target="_KI-tAuqYEeOXk5jv71q7rw" routing="Rectilinear" avoidObstructions="true">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QNf-weqZEeOXk5jv71q7rw" fontName="Sans"/>
     <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_12"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_096YEnynEeOR14uD_82SuQ" points="[-7, 3, 927, -387]$[-934, 390, 0, 0]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QNf-wuqZEeOXk5jv71q7rw" points="[-5, 2, 0, 0]$[-5, 2, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QNjCEOqZEeOXk5jv71q7rw" type="4001" source="_eKas8OqWEeOXk5jv71q7rw" target="_4K_S4OqWEeOXk5jv71q7rw" routing="Rectilinear" avoidObstructions="true">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QNjCEeqZEeOXk5jv71q7rw" fontName="Sans"/>
+    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_4"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QNjCEuqZEeOXk5jv71q7rw" points="[-5, 2, 0, 0]$[-5, 2, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QNmFYOqZEeOXk5jv71q7rw" type="4001" source="_G-EssOqXEeOXk5jv71q7rw" target="_HVUSkuqYEeOXk5jv71q7rw" routing="Rectilinear" avoidObstructions="true">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QNmFYeqZEeOXk5jv71q7rw" fontName="Sans"/>
+    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_10"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QNmFYuqZEeOXk5jv71q7rw" points="[-5, 2, 0, 0]$[-5, 2, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QNpIsOqZEeOXk5jv71q7rw" type="4001" source="_aPQe8OqWEeOXk5jv71q7rw" target="_eKb7EOqWEeOXk5jv71q7rw" routing="Rectilinear" avoidObstructions="true">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QNpIseqZEeOXk5jv71q7rw" fontName="Sans"/>
+    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_2"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QNpIsuqZEeOXk5jv71q7rw" points="[-5, 2, 0, 0]$[-5, 2, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QNsMAOqZEeOXk5jv71q7rw" type="4001" source="_aPQe8OqWEeOXk5jv71q7rw" target="_e2zR0uqWEeOXk5jv71q7rw" routing="Rectilinear" avoidObstructions="true">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QNsMAeqZEeOXk5jv71q7rw" fontName="Sans"/>
+    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_3"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QNsMAuqZEeOXk5jv71q7rw" points="[-5, 2, 0, 0]$[-5, 2, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QNvPUOqZEeOXk5jv71q7rw" type="4001" source="_HVTrgOqYEeOXk5jv71q7rw" target="_KI_UEOqYEeOXk5jv71q7rw" routing="Rectilinear" avoidObstructions="true">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QNvPUeqZEeOXk5jv71q7rw" fontName="Sans"/>
+    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_11"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QNvPUuqZEeOXk5jv71q7rw" points="[-5, 2, 0, 0]$[-5, 2, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QNy5sOqZEeOXk5jv71q7rw" type="4001" source="_e2yqwOqWEeOXk5jv71q7rw" target="_4K-r0eqWEeOXk5jv71q7rw" routing="Rectilinear" avoidObstructions="true">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QNy5seqZEeOXk5jv71q7rw" fontName="Sans"/>
+    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_6"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QNy5suqZEeOXk5jv71q7rw" points="[-5, 2, 0, 0]$[-5, 2, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QN19AOqZEeOXk5jv71q7rw" type="4001" source="_OKxHcOqYEeOXk5jv71q7rw" target="_Pg5z8eqYEeOXk5jv71q7rw" routing="Rectilinear" avoidObstructions="true">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QN19AeqZEeOXk5jv71q7rw" fontName="Sans"/>
+    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_14"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QN19AuqZEeOXk5jv71q7rw" points="[-5, 2, 0, 0]$[-5, 2, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QN5AUOqZEeOXk5jv71q7rw" type="4001" source="_e2yqwOqWEeOXk5jv71q7rw" target="_4K-r2OqWEeOXk5jv71q7rw" routing="Rectilinear" avoidObstructions="true">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QN5AUeqZEeOXk5jv71q7rw" fontName="Sans"/>
+    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_5"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QN5AUuqZEeOXk5jv71q7rw" points="[-5, 2, 0, 0]$[-5, 2, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QN8DoOqZEeOXk5jv71q7rw" type="4001" source="_4K-EwOqWEeOXk5jv71q7rw" target="_HVPaEeqYEeOXk5jv71q7rw" routing="Rectilinear" avoidObstructions="true">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QN8DoeqZEeOXk5jv71q7rw" fontName="Sans"/>
+    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_9"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QN8DouqZEeOXk5jv71q7rw" points="[-5, 2, 0, 0]$[-5, 2, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QN_G8OqZEeOXk5jv71q7rw" type="4001" source="_e2yqwOqWEeOXk5jv71q7rw" target="_G-FTweqXEeOXk5jv71q7rw" routing="Rectilinear" avoidObstructions="true">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QN_G8eqZEeOXk5jv71q7rw" fontName="Sans"/>
+    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_8"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QN_G8uqZEeOXk5jv71q7rw" points="[-5, 2, 0, 0]$[-5, 2, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QOCKQOqZEeOXk5jv71q7rw" type="4001" source="_e2yqwOqWEeOXk5jv71q7rw" target="_4K-Ex-qWEeOXk5jv71q7rw" routing="Rectilinear" avoidObstructions="true">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QOCKQeqZEeOXk5jv71q7rw" fontName="Sans"/>
+    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_7"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QOCKQuqZEeOXk5jv71q7rw" points="[-5, 2, 0, 0]$[-5, 2, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QOFNkOqZEeOXk5jv71q7rw" type="4001" source="_KI-F8OqYEeOXk5jv71q7rw" target="_OKxuguqYEeOXk5jv71q7rw" routing="Rectilinear" avoidObstructions="true">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QOFNkeqZEeOXk5jv71q7rw" fontName="Sans"/>
+    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_13"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QOFNkuqZEeOXk5jv71q7rw" points="[-5, 2, 0, 0]$[-5, 2, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QOI38OqZEeOXk5jv71q7rw" type="4001" source="_aPQe8OqWEeOXk5jv71q7rw" target="_b-7s0OqWEeOXk5jv71q7rw" routing="Rectilinear" avoidObstructions="true">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QOI38eqZEeOXk5jv71q7rw" fontName="Sans"/>
+    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_1"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QOI38uqZEeOXk5jv71q7rw" points="[-5, 2, 0, 0]$[-5, 2, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_8uf-sOq0EeOXk5jv71q7rw" type="4001" source="_Pg5M4OqYEeOXk5jv71q7rw" target="_spSfYOqYEeOXk5jv71q7rw" routing="Rectilinear" avoidObstructions="true">
+    <styles xmi:type="notation:FontStyle" xmi:id="_8uf-seq0EeOXk5jv71q7rw" fontName="Sans"/>
+    <element xmi:type="sad:SadConnectInterface" href="RBDS_wf.sad.xml#connection_15"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_8uf-suq0EeOXk5jv71q7rw" points="[8, -1, -114, 7]$[106, -12, -16, -4]"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_8uia8Oq0EeOXk5jv71q7rw" id="(0.07407407407407407,0.19117647058823528)"/>
   </edges>
 </notation:Diagram>
