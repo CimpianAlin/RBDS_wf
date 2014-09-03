@@ -9,8 +9,8 @@ Prefix: %{_prefix}
 
 Name: RBDS_wf
 Summary: Waveform RBDS_wf
-Version: 1.0.0
-Release: 1
+Version:        1.0.0
+Release:        1%{?dist}
 License: None
 Group: REDHAWK/Waveforms
 Source: %{name}-%{version}.tar.gz
@@ -22,6 +22,10 @@ BuildArch: noarch
 BuildRoot: %{_tmppath}/%{name}-%{version}
 
 %description
+Component %{name}
+ * Commit: __REVISION__
+ * Source Date/Time: __DATETIME__
+
 
 %prep
 %setup
