@@ -10,7 +10,7 @@ Prefix: %{_prefix}
 Name: RBDS_wf
 Summary: Waveform RBDS_wf
 Version:        1.0.0
-Release:        1%{?dist}
+Release:        2%{?dist}
 License: None
 Group: REDHAWK/Waveforms
 Source: %{name}-%{version}.tar.gz
